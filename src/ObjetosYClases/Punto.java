@@ -1,9 +1,13 @@
 package ObjetosYClases;
 
-
+/**
+ * pruebas de constructores
+ * @author Alfredo
+ *
+ */
 public class Punto {
 
-	int posX, posY; // posicion del putno
+	int posX, posY; // posicion del punto
 	
 	Punto (){
 		this.posX=posX;

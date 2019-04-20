@@ -1,9 +1,17 @@
 package ObjetosYClases;
 
+//import javax.swing.jframe;
+
+/**
+ * Inicial, pruebas de constructores inicializados y vacios.
+ * @author Alfredo
+ *
+ */
 public class FichaApp {
 
 	public static void main (String[] args) {
 		
+		// variable master que modifica ambas fichas
 		int i=5;
 		
 		Ficha ficha1 = new Ficha();
